@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:78:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:92:6:MX_FREERTOS_Init	48	static
+../Core/Src/freertos.c:136:6:StartDefaultTask	32	static
+../Core/Src/freertos.c:184:9:SD_FileOperationsTest	240	static
+../Core/Src/freertos.c:245:6:LedBlueTask	16	static
+../Core/Src/freertos.c:267:6:LedGreenTask	16	static
