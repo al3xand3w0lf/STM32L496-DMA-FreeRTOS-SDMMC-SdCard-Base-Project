@@ -1,5 +1,5 @@
 /*
- * bsp_driver_mm.c
+ * bsp_driver_mmaw.c
  *
  *  Created on: 29.07.2019
  *      Author: michjm

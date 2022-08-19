@@ -4416,95 +4416,95 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xfa ./FATFS/App/fatfs.o
  .debug_macro   0x0000000000000000       0xe2 ./FATFS/App/fatfs.o
  .debug_macro   0x0000000000000000       0x8e ./FATFS/App/fatfs.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mm.o
- .text          0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mm.o
- .data          0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mm.o
- .bss           0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0xa78 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x1ba ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x2e ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x28 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x22 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x8e ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x51 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x103 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x6a ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x1df ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x1c ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x22 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0xfb ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000     0x1011 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x11f ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000    0x1c1e0 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x6d ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000     0x38e6 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x174 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x5c ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000     0x187d ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x773 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x1b9 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x202 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x26b ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x23d ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x241 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x3ad ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0xe4 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x22c ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x61 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0xa5 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x122 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x3ef ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x77a ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x1d5 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0xa91 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x1fb ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x5ba ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x44 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000      0x433 ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x1c ./FATFS/Target/bsp_driver_mm.o
- .debug_macro   0x0000000000000000       0x40 ./FATFS/Target/bsp_driver_mm.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_mmaw.o
+ .text          0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mmaw.o
+ .data          0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mmaw.o
+ .bss           0x0000000000000000        0x0 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0xa78 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x1ba ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x2e ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x28 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x22 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x8e ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x51 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x103 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x6a ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x1df ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x1c ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x22 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0xfb ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000     0x1011 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x11f ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000    0x1c1e0 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x6d ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000     0x38e6 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x174 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x5c ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000     0x187d ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x773 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x1b9 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x202 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x26b ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x23d ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x241 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x3ad ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0xe4 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x22c ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x61 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0xa5 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x122 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x3ef ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x77a ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x1d5 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0xa91 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x1fb ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x5ba ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x44 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000      0x433 ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x1c ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_macro   0x0000000000000000       0x40 ./FATFS/Target/bsp_driver_mmaw.o
  .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_sd.o
  .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_sd.o
  .group         0x0000000000000000        0xc ./FATFS/Target/bsp_driver_sd.o
@@ -7541,7 +7541,7 @@ LOAD ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.o
 LOAD ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
 LOAD ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
 LOAD ./FATFS/App/fatfs.o
-LOAD ./FATFS/Target/bsp_driver_mm.o
+LOAD ./FATFS/Target/bsp_driver_mmaw.o
 LOAD ./FATFS/Target/bsp_driver_sd.o
 LOAD ./FATFS/Target/fatfs_platform.o
 LOAD ./FATFS/Target/sd_diskio.o
@@ -8141,13 +8141,13 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
                 0x00000000080092f0       0x10 ./FATFS/App/fatfs.o
                 0x00000000080092f0                get_fattime
  .text.SD_DMAConfig
-                0x0000000008009300       0x30 ./FATFS/Target/bsp_driver_mm.o
+                0x0000000008009300       0x30 ./FATFS/Target/bsp_driver_mmaw.o
                 0x0000000008009300                SD_DMAConfig
  .text.BSP_SD_ReadBlocks_DMA
-                0x0000000008009330       0x54 ./FATFS/Target/bsp_driver_mm.o
+                0x0000000008009330       0x54 ./FATFS/Target/bsp_driver_mmaw.o
                 0x0000000008009330                BSP_SD_ReadBlocks_DMA
  .text.BSP_SD_WriteBlocks_DMA
-                0x0000000008009384       0x54 ./FATFS/Target/bsp_driver_mm.o
+                0x0000000008009384       0x54 ./FATFS/Target/bsp_driver_mmaw.o
                 0x0000000008009384                BSP_SD_WriteBlocks_DMA
  .text.BSP_SD_Init
                 0x00000000080093d8       0x4c ./FATFS/Target/bsp_driver_sd.o
@@ -9071,7 +9071,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .ARM.attributes
                 0x000000000000051f       0x34 ./FATFS/App/fatfs.o
  .ARM.attributes
-                0x0000000000000553       0x34 ./FATFS/Target/bsp_driver_mm.o
+                0x0000000000000553       0x34 ./FATFS/Target/bsp_driver_mmaw.o
  .ARM.attributes
                 0x0000000000000587       0x34 ./FATFS/Target/bsp_driver_sd.o
  .ARM.attributes
@@ -9170,7 +9170,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_info    0x0000000000016437      0xe4f ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_info    0x0000000000017286     0x127a ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_info    0x0000000000018500      0x54e ./FATFS/App/fatfs.o
- .debug_info    0x0000000000018a4e      0x844 ./FATFS/Target/bsp_driver_mm.o
+ .debug_info    0x0000000000018a4e      0x844 ./FATFS/Target/bsp_driver_mmaw.o
  .debug_info    0x0000000000019292      0xb14 ./FATFS/Target/bsp_driver_sd.o
  .debug_info    0x0000000000019da6      0x1ec ./FATFS/Target/fatfs_platform.o
  .debug_info    0x0000000000019f92      0x9ab ./FATFS/Target/sd_diskio.o
@@ -9216,7 +9216,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_abbrev  0x0000000000002b51      0x2ab ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_abbrev  0x0000000000002dfc      0x1ea ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_abbrev  0x0000000000002fe6      0x163 ./FATFS/App/fatfs.o
- .debug_abbrev  0x0000000000003149      0x1a0 ./FATFS/Target/bsp_driver_mm.o
+ .debug_abbrev  0x0000000000003149      0x1a0 ./FATFS/Target/bsp_driver_mmaw.o
  .debug_abbrev  0x00000000000032e9      0x290 ./FATFS/Target/bsp_driver_sd.o
  .debug_abbrev  0x0000000000003579      0x105 ./FATFS/Target/fatfs_platform.o
  .debug_abbrev  0x000000000000367e      0x2f6 ./FATFS/Target/sd_diskio.o
@@ -9288,7 +9288,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_aranges
                 0x0000000000001350       0x28 ./FATFS/App/fatfs.o
  .debug_aranges
-                0x0000000000001378       0x30 ./FATFS/Target/bsp_driver_mm.o
+                0x0000000000001378       0x30 ./FATFS/Target/bsp_driver_mmaw.o
  .debug_aranges
                 0x00000000000013a8       0x98 ./FATFS/Target/bsp_driver_sd.o
  .debug_aranges
@@ -9352,7 +9352,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_ranges  0x0000000000001020       0x68 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_ranges  0x0000000000001088      0x180 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_ranges  0x0000000000001208       0x18 ./FATFS/App/fatfs.o
- .debug_ranges  0x0000000000001220       0x20 ./FATFS/Target/bsp_driver_mm.o
+ .debug_ranges  0x0000000000001220       0x20 ./FATFS/Target/bsp_driver_mmaw.o
  .debug_ranges  0x0000000000001240       0x88 ./FATFS/Target/bsp_driver_sd.o
  .debug_ranges  0x00000000000012c8       0x10 ./FATFS/Target/fatfs_platform.o
  .debug_ranges  0x00000000000012d8       0x50 ./FATFS/Target/sd_diskio.o
@@ -9478,7 +9478,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x000000000002c26f      0x1f2 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_macro   0x000000000002c461      0x1f3 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_macro   0x000000000002c654      0x41e ./FATFS/App/fatfs.o
- .debug_macro   0x000000000002ca72      0x20a ./FATFS/Target/bsp_driver_mm.o
+ .debug_macro   0x000000000002ca72      0x20a ./FATFS/Target/bsp_driver_mmaw.o
  .debug_macro   0x000000000002cc7c      0x20a ./FATFS/Target/bsp_driver_sd.o
  .debug_macro   0x000000000002ce86      0x1fb ./FATFS/Target/fatfs_platform.o
  .debug_macro   0x000000000002d081      0x52e ./FATFS/Target/sd_diskio.o
@@ -9510,7 +9510,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x0000000000030387      0x1d5 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x000000000003055c      0x21c ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_FreeRTOS.o
 
-.debug_line     0x0000000000000000    0x2eaf2
+.debug_line     0x0000000000000000    0x2eaf4
  .debug_line    0x0000000000000000      0x713 ./Core/Src/dma.o
  .debug_line    0x0000000000000713      0xc9c ./Core/Src/freertos.o
  .debug_line    0x00000000000013af      0x77c ./Core/Src/gpio.o
@@ -9536,27 +9536,27 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x000000000001a29c      0xcdd ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_line    0x000000000001af79     0x10ea ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_line    0x000000000001c063      0xb7b ./FATFS/App/fatfs.o
- .debug_line    0x000000000001cbde      0x7b9 ./FATFS/Target/bsp_driver_mm.o
- .debug_line    0x000000000001d397      0x8f2 ./FATFS/Target/bsp_driver_sd.o
- .debug_line    0x000000000001dc89      0x72d ./FATFS/Target/fatfs_platform.o
- .debug_line    0x000000000001e3b6      0xe29 ./FATFS/Target/sd_diskio.o
- .debug_line    0x000000000001f1df      0xbec ./Middlewares/Third_Party/FatFs/src/diskio.o
- .debug_line    0x000000000001fdcb     0x3748 ./Middlewares/Third_Party/FatFs/src/ff.o
- .debug_line    0x0000000000023513      0xc0a ./Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
- .debug_line    0x000000000002411d      0xbc3 ./Middlewares/Third_Party/FatFs/src/option/syscall.o
- .debug_line    0x0000000000024ce0     0x12c5 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
- .debug_line    0x0000000000025fa5      0x800 ./Middlewares/Third_Party/FreeRTOS/Source/list.o
- .debug_line    0x00000000000267a5     0x15b1 ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
- .debug_line    0x0000000000027d56     0x1ab7 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_line    0x000000000002980d      0x9c7 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
- .debug_line    0x000000000002a1d4      0xa2a ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
- .debug_line    0x000000000002abfe      0xe90 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_line    0x000000000002ba8e       0xad ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_line    0x000000000002bb3b     0x2041 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_line    0x000000000002db7c      0x6d1 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_Config_FreeRTOS.o
- .debug_line    0x000000000002e24d      0x8a5 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_line    0x000000000001cbde      0x7bb ./FATFS/Target/bsp_driver_mmaw.o
+ .debug_line    0x000000000001d399      0x8f2 ./FATFS/Target/bsp_driver_sd.o
+ .debug_line    0x000000000001dc8b      0x72d ./FATFS/Target/fatfs_platform.o
+ .debug_line    0x000000000001e3b8      0xe29 ./FATFS/Target/sd_diskio.o
+ .debug_line    0x000000000001f1e1      0xbec ./Middlewares/Third_Party/FatFs/src/diskio.o
+ .debug_line    0x000000000001fdcd     0x3748 ./Middlewares/Third_Party/FatFs/src/ff.o
+ .debug_line    0x0000000000023515      0xc0a ./Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
+ .debug_line    0x000000000002411f      0xbc3 ./Middlewares/Third_Party/FatFs/src/option/syscall.o
+ .debug_line    0x0000000000024ce2     0x12c5 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .debug_line    0x0000000000025fa7      0x800 ./Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_line    0x00000000000267a7     0x15b1 ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_line    0x0000000000027d58     0x1ab7 ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_line    0x000000000002980f      0x9c7 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x000000000002a1d6      0xa2a ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_line    0x000000000002ac00      0xe90 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_line    0x000000000002ba90       0xad ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_line    0x000000000002bb3d     0x2041 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_line    0x000000000002db7e      0x6d1 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_line    0x000000000002e24f      0x8a5 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_FreeRTOS.o
 
-.debug_str      0x0000000000000000   0x1198bf
+.debug_str      0x0000000000000000   0x1198c1
  .debug_str     0x0000000000000000    0xfece4 ./Core/Src/dma.o
                                       0xff03f (size before relaxing)
  .debug_str     0x00000000000fece4     0xca7b ./Core/Src/freertos.o
@@ -9607,43 +9607,43 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
                                       0xfef63 (size before relaxing)
  .debug_str     0x0000000000110ebb       0xd1 ./FATFS/App/fatfs.o
                                      0x10ac30 (size before relaxing)
- .debug_str     0x0000000000110f8c       0x8c ./FATFS/Target/bsp_driver_mm.o
-                                      0xfefa6 (size before relaxing)
- .debug_str     0x0000000000111018      0x116 ./FATFS/Target/bsp_driver_sd.o
+ .debug_str     0x0000000000110f8c       0x8e ./FATFS/Target/bsp_driver_mmaw.o
+                                      0xfefa8 (size before relaxing)
+ .debug_str     0x000000000011101a      0x116 ./FATFS/Target/bsp_driver_sd.o
                                       0xff143 (size before relaxing)
- .debug_str     0x000000000011112e       0x21 ./FATFS/Target/fatfs_platform.o
+ .debug_str     0x0000000000111130       0x21 ./FATFS/Target/fatfs_platform.o
                                       0xfe9eb (size before relaxing)
- .debug_str     0x000000000011114f     0x268c ./FATFS/Target/sd_diskio.o
+ .debug_str     0x0000000000111151     0x268c ./FATFS/Target/sd_diskio.o
                                      0x10d3e8 (size before relaxing)
- .debug_str     0x00000000001137db       0x57 ./Middlewares/Third_Party/FatFs/src/diskio.o
+ .debug_str     0x00000000001137dd       0x57 ./Middlewares/Third_Party/FatFs/src/diskio.o
                                      0x10aaf4 (size before relaxing)
- .debug_str     0x0000000000113832      0xfc5 ./Middlewares/Third_Party/FatFs/src/ff.o
+ .debug_str     0x0000000000113834      0xfc5 ./Middlewares/Third_Party/FatFs/src/ff.o
                                      0x10bd0a (size before relaxing)
- .debug_str     0x00000000001147f7       0x91 ./Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
+ .debug_str     0x00000000001147f9       0x91 ./Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
                                      0x10ab59 (size before relaxing)
- .debug_str     0x0000000000114888       0xe3 ./Middlewares/Third_Party/FatFs/src/option/syscall.o
+ .debug_str     0x000000000011488a       0xe3 ./Middlewares/Third_Party/FatFs/src/option/syscall.o
                                      0x10abbd (size before relaxing)
- .debug_str     0x000000000011496b      0x834 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .debug_str     0x000000000011496d      0x834 ./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
                                       0x12792 (size before relaxing)
- .debug_str     0x000000000011519f      0x20f ./Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_str     0x00000000001151a1      0x20f ./Middlewares/Third_Party/FreeRTOS/Source/list.o
                                        0xe675 (size before relaxing)
- .debug_str     0x00000000001153ae      0x86f ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_str     0x00000000001153b0      0x86f ./Middlewares/Third_Party/FreeRTOS/Source/queue.o
                                       0x1008a (size before relaxing)
- .debug_str     0x0000000000115c1d     0x106b ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_str     0x0000000000115c1f     0x106b ./Middlewares/Third_Party/FreeRTOS/Source/tasks.o
                                       0x10eed (size before relaxing)
- .debug_str     0x0000000000116c88      0x783 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_str     0x0000000000116c8a      0x783 ./Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.o
                                        0xdf8f (size before relaxing)
- .debug_str     0x000000000011740b      0x32d ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_str     0x000000000011740d      0x32d ./Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
                                        0xefb7 (size before relaxing)
- .debug_str     0x0000000000117738     0x1071 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_str     0x000000000011773a     0x1071 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT.o
                                        0x77ca (size before relaxing)
- .debug_str     0x00000000001187a9       0x41 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_str     0x00000000001187ab       0x41 ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
                                          0xa9 (size before relaxing)
- .debug_str     0x00000000001187ea      0xeee ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_str     0x00000000001187ec      0xeee ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW.o
                                        0x9825 (size before relaxing)
- .debug_str     0x00000000001196d8      0x12d ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_str     0x00000000001196da      0x12d ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_Config_FreeRTOS.o
                                        0xca4b (size before relaxing)
- .debug_str     0x0000000000119805       0xba ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_str     0x0000000000119807       0xba ./Middlewares/Third_Party/SEGGER/SEGGER/SEGGER_SYSVIEW_FreeRTOS.o
                                        0xed2c (size before relaxing)
 
 .comment        0x0000000000000000       0x50
@@ -9672,7 +9672,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .comment       0x0000000000000050       0x51 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .comment       0x0000000000000050       0x51 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .comment       0x0000000000000050       0x51 ./FATFS/App/fatfs.o
- .comment       0x0000000000000050       0x51 ./FATFS/Target/bsp_driver_mm.o
+ .comment       0x0000000000000050       0x51 ./FATFS/Target/bsp_driver_mmaw.o
  .comment       0x0000000000000050       0x51 ./FATFS/Target/bsp_driver_sd.o
  .comment       0x0000000000000050       0x51 ./FATFS/Target/fatfs_platform.o
  .comment       0x0000000000000050       0x51 ./FATFS/Target/sd_diskio.o
@@ -9716,7 +9716,7 @@ LOAD c:/st/stm32cubeide_1.8.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_frame   0x0000000000004654      0x1dc ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.o
  .debug_frame   0x0000000000004830      0x6e4 ./Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.o
  .debug_frame   0x0000000000004f14       0x4c ./FATFS/App/fatfs.o
- .debug_frame   0x0000000000004f60       0x7c ./FATFS/Target/bsp_driver_mm.o
+ .debug_frame   0x0000000000004f60       0x7c ./FATFS/Target/bsp_driver_mmaw.o
  .debug_frame   0x0000000000004fdc      0x238 ./FATFS/Target/bsp_driver_sd.o
  .debug_frame   0x0000000000005214       0x34 ./FATFS/Target/fatfs_platform.o
  .debug_frame   0x0000000000005248      0x148 ./FATFS/Target/sd_diskio.o

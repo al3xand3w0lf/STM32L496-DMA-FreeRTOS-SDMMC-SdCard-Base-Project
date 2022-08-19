@@ -1,4 +1,4 @@
-FATFS/Target/bsp_driver_mm.o: ../FATFS/Target/bsp_driver_mm.c \
+FATFS/Target/bsp_driver_mmaw.o: ../FATFS/Target/bsp_driver_mmaw.c \
  ../FATFS/Target/bsp_driver_sd.h \
  ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
  ../Core/Inc/stm32l4xx_hal_conf.h \

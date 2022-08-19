@@ -1,3 +1,0 @@
-../FATFS/Target/bsp_driver_mm.c:23:19:SD_DMAConfig	16	static
-../FATFS/Target/bsp_driver_mm.c:47:9:BSP_SD_ReadBlocks_DMA	32	static
-../FATFS/Target/bsp_driver_mm.c:71:9:BSP_SD_WriteBlocks_DMA	32	static
