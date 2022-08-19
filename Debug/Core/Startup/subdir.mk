@@ -16,7 +16,7 @@ S_DEPS += \
 
 # Each subdirectory must supply rules for building sources it contributes
 Core/Startup/%.o: ../Core/Startup/%.s Core/Startup/subdir.mk
-	arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -I"D:/Documents/PROJECTS/101 HELIOS/3 Programmieren STM32/Firmware/HELIOS_STM32/Middlewares/Third_Party/SEGGER/SEGGER" -I"D:/Documents/PROJECTS/101 HELIOS/3 Programmieren STM32/Firmware/HELIOS_STM32/Middlewares/Third_Party/SEGGER/SEGGER/Config" -x assembler-with-cpp -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@" "$<"
+	arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -I"D:/Documents/PROJECTS/101 HELIOS/3 Programmieren STM32/Firmware/HELIOS_STM32_github/Middlewares/Third_Party/SEGGER/SEGGER" -I"D:/Documents/PROJECTS/101 HELIOS/3 Programmieren STM32/Firmware/HELIOS_STM32_github/Middlewares/Third_Party/SEGGER/SEGGER/Config" -x assembler-with-cpp -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@" "$<"
 
 clean: clean-Core-2f-Startup
 
