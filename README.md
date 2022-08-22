@@ -14,13 +14,13 @@ The STML496VG example is for my self designed boad. On this STML496VG example I 
 
 However, the most important peace of code in this project it the **_bsp_driver_mmaw.c_** file!
 Basically we use only one DMA Channel which we reconfigure before every Read/Write procedure.
-Please open these projects in STM32CubeMX and check how i configured the DMA in order to get it work.
+Please open these projects in STM32CubeMX and check how i configured the DMA.
 
 you can find the:
 **_bsp_driver_mmaw.c_**
 file under **SRC** and in the examples under **FATFS/Target/bsp_driver_mmaw.c**
 
 In your project just copy "bsp_driver_mmaw.c" next to "bsp_driver_sd.c" file.
-Since BSP_SD_ReadBlocks and BSP_SD_WriteBlocks are \_\_weak functions my driver will be used instead.
+Since BSP_SD_ReadBlocks and BSP_SD_WriteBlocks are \_\_weak functions and my driver will be used instead.
 
 As allways its the users responsibility to read through the code for full understanding
