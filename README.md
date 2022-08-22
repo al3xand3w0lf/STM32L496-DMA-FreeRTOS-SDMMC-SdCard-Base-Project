@@ -24,3 +24,5 @@ In your project just copy "bsp_driver_mmaw.c" next to "bsp_driver_sd.c" file.
 Since BSP_SD_ReadBlocks and BSP_SD_WriteBlocks are \_\_weak functions and my driver will be used instead.
 
 As allways its the users responsibility to read through the code for full understanding
+
+The Folder "JUST_BECASUE" contains SD Card DMA RTOS project which are working out of the Box configured with CubeMX
