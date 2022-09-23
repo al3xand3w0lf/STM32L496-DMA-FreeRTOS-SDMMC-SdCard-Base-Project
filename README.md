@@ -2,7 +2,7 @@
 
 STM32L496 DMA FreeRTOS SDMMC SdCard Base Project
 this is my contribution to the community.
-Sadly for some reason STM makes it a really painful to get SD cards fully running on STM32L4 uControllers.
+Sadly for some reason STM makes it a really painfull to get SD cards fully running on STM32L4 uControllers.
 
 Here you find two fully running STM32L4 projects with FreeRtos using a 4 bit wide SDMMC bus with DMA including my driver.
 Created via STM32CubeMX 6.6.1 and edited with STM32CubeIDE. These examples remain fullyconfigurable and editable with CubeMX.
