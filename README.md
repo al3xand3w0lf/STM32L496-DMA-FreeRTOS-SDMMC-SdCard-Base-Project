@@ -24,4 +24,4 @@ Since BSP_SD_ReadBlocks and BSP_SD_WriteBlocks are \_\_weak functions and my dri
 
 As allways its the users responsibility to read through the code for full understanding
 
-The Folder "JUST_BECASUE" contains SD Card DMA RTOS project which are working out of the Box configured with CubeMX
+The Folder "JUST_BECAUSE" contains SD Card DMA RTOS project which are working out of the Box configured with CubeMX
