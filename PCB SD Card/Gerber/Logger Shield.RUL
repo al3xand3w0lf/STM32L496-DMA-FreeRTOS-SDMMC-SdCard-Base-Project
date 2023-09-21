@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Documents\PROJECTS\103 GEOS Logger Shield\2 ECAD\SD Shield\Logger Shield.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=0.39
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
