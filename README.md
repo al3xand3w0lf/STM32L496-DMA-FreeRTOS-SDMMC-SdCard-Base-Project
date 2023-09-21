@@ -4,24 +4,34 @@ STM32L496 DMA FreeRTOS SDMMC SdCard Base Project
 this is my contribution to the community.
 Sadly for some reason STM makes it a really painfull to get SD cards fully running on STM32L4 uControllers.
 
-Here you find two fully running STM32L4 projects with FreeRtos using a 4 bit wide SDMMC bus with DMA including my driver.
-Created via STM32CubeMX 6.6.1 and edited with STM32CubeIDE. These examples remain fullyconfigurable and editable with CubeMX.
+- RTOS
+- SD Card SDMMC 4bit DMA
+- UART DMA
+- CLI Terminal
+- [Segger System View](https://www.segger.com/products/development-tools/systemview/)
 
-[The STM496 Disco example runs on the STM32L4G-DISO board from STM.](https://www.st.com/en/evaluation-tools/32l496gdiscovery.html)
+Here you find one fully running STM32L4 projects with FreeRtos using a 4 bit wide SDMMC bus with DMA including my driver plus much more.
 
-The STML496VG example is for my self designed boad. On this STML496VG example I added Segger System View and OZONE to this base RTOS project.
+Created via STM32CubeMX 5.3 and edited with STM32CubeIDE. These examples remain fully configurable and editable with CubeMX 5.3. and STM32CubeIDE. Newer CubeMX versions will break the code.
+
+### Important:
+
+1. Download CubeMX 5.3 - on which this project is based
+2. in STM32 Cube IDE change toolchain in project settings to "GNU Tools for STM32 (10.3-21.10)
 
 However, the most important peace of code in this project it the **_bsp_driver_mmaw.c_** file!
 Basically we use only one DMA Channel which we reconfigure before every Read/Write procedure.
-Please open these projects in STM32CubeMX and check how i configured the DMA.
+Open these projects in STM32CubeMX and check how i configured the DMA.
 
 you can find the:
 **_bsp_driver_mmaw.c_**
-file under **SRC** and in the examples under **FATFS/Target/bsp_driver_mmaw.c**
+file under **SRC** and in the examples under: **FATFS/Target/bsp_driver_mmaw.c**
 
 In your project just copy "bsp_driver_mmaw.c" next to "bsp_driver_sd.c" file.
 Since BSP_SD_ReadBlocks and BSP_SD_WriteBlocks are \_\_weak functions and my driver will be used instead.
 
-As allways its the users responsibility to read through the code for full understanding
+If you want to use Segger System View you have to convert your ST-Link to Segger J-link with: ST-Link Reflash Utility
 
-The Folder "JUST_BECAUSE" contains SD Card DMA RTOS project which are working out of the Box configured with CubeMX
+[ST-Link Reflash Utility](https://www.segger.com/products/debug-probes/j-link/models/other-j-links/st-link-on-board/)
+
+As allways its the users responsibility to read through the code for full understanding.
